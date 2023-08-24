@@ -1,5 +1,5 @@
-public class Ders2 {
-    public Ders2() {
+public class Ders2_Degiskenler_ve_Temel_Veri_Tipleri {
+    public Ders2_Degiskenler_ve_Temel_Veri_Tipleri() {
         // Ders 2 -> Değişkenler ve Temel Veri Tipleri
         // -----------------------------------------------------
 

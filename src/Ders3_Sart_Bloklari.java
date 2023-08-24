@@ -1,5 +1,5 @@
-public class Ders3 {
-    public Ders3() {
+public class Ders3_Sart_Bloklari {
+    public Ders3_Sart_Bloklari() {
         // Ders 3 -> Şart Blokları
         // Temel olarak şart bloklarını belirli bir koşula göre bir işlem yaptırmak istediğimiz zaman kullanırız.
         // Java'da kullanabileceğimiz şart blokları : if, if-else, if-elseif-else, switch-case
