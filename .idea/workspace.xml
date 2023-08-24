@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97350b4a-4ae4-4780-a569-f6c5f3fbcf80" name="Changes" comment="Ders 3 : Şart Blokları - Tamamlandı.">
+    <list default="true" id="97350b4a-4ae4-4780-a569-f6c5f3fbcf80" name="Changes" comment="Dosya isimleri değiştirildi.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders4_Donguler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -69,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692864339385</updated>
-      <workItem from="1692864340554" duration="8237000" />
+      <workItem from="1692864340554" duration="11799000" />
     </task>
     <task id="LOCAL-00001" summary="Ders 1 : Hello World !">
       <option name="closed" value="true" />
@@ -95,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692880521095</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Dosya isimleri değiştirildi.">
+      <option name="closed" value="true" />
+      <created>1692880700477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692880700477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +128,7 @@
     <MESSAGE value="Ders 1 : Hello World !" />
     <MESSAGE value="Ders 2 : Değişkenler ve Temel Veri Tipleri - Tamamlandı." />
     <MESSAGE value="Ders 3 : Şart Blokları - Tamamlandı." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ders 3 : Şart Blokları - Tamamlandı." />
+    <MESSAGE value="Dosya isimleri değiştirildi." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dosya isimleri değiştirildi." />
   </component>
 </project>

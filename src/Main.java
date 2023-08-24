@@ -2,12 +2,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        //Ders1 ders1 = new Ders1();
-        //Ders2 ders2 = new Ders2();
-        //Ders3 ders3 = new Ders3();
-
-        // Ders 4 -> Döngüler
-
+      // Ders1_Hello_World ders1HelloWorld = new Ders1_Hello_World();
+      // Ders2_Degiskenler_ve_Temel_Veri_Tipleri ders2DegiskenlerVeTemelVeriTipleri = new Ders2_Degiskenler_ve_Temel_Veri_Tipleri();
+      // Ders3_Sart_Bloklari ders3SartBloklari = new Ders3_Sart_Bloklari();
+      // Ders4_Donguler ders4Donguler = new Ders4_Donguler();
 
 
     }
