@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97350b4a-4ae4-4780-a569-f6c5f3fbcf80" name="Changes" comment="Dosya isimleri değiştirildi.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders4_Donguler.java" afterDir="false" />
+    <list default="true" id="97350b4a-4ae4-4780-a569-f6c5f3fbcf80" name="Changes" comment="Ders 4 : Döngüler - Tamamlandı.">
+      <change afterPath="$PROJECT_DIR$/src/Ders5_Diziler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -25,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2UQGLgoYbaC8rqugK7QodK7vfII" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/Users/gokaybaz/IdeaProjects/btk_java_ile_programlamaya_giris_egitimi/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/gokaybaz/IdeaProjects/btk_java_ile_programlamaya_giris_egitimi/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -73,7 +72,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692864339385</updated>
-      <workItem from="1692864340554" duration="11799000" />
+      <workItem from="1692864340554" duration="11831000" />
+      <workItem from="1692895283658" duration="1014000" />
+      <workItem from="1692952971469" duration="4222000" />
     </task>
     <task id="LOCAL-00001" summary="Ders 1 : Hello World !">
       <option name="closed" value="true" />
@@ -107,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692880700477</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ders 4 : Döngüler - Tamamlandı.">
+      <option name="closed" value="true" />
+      <created>1692891380077</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692891380077</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +138,7 @@
     <MESSAGE value="Ders 2 : Değişkenler ve Temel Veri Tipleri - Tamamlandı." />
     <MESSAGE value="Ders 3 : Şart Blokları - Tamamlandı." />
     <MESSAGE value="Dosya isimleri değiştirildi." />
-    <option name="LAST_COMMIT_MESSAGE" value="Dosya isimleri değiştirildi." />
+    <MESSAGE value="Ders 4 : Döngüler - Tamamlandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ders 4 : Döngüler - Tamamlandı." />
   </component>
 </project>
