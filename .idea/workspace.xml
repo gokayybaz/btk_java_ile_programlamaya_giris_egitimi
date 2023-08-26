@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97350b4a-4ae4-4780-a569-f6c5f3fbcf80" name="Changes" comment="Ders 4 : Döngüler - Tamamlandı.">
-      <change afterPath="$PROJECT_DIR$/src/Ders5_Diziler.java" afterDir="false" />
+    <list default="true" id="97350b4a-4ae4-4780-a569-f6c5f3fbcf80" name="Changes" comment="Ders 5 : Diziler - Tamamlandı.">
+      <change afterPath="$PROJECT_DIR$/src/Ders6_Stringler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -23,6 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gokayybaz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="be78abc2-18b0-4b67-a765-d4ad98a7ebbc" />
+        <option name="url" value="https://github.com/gokayybaz/btk_java_ile_programlamaya_giris_egitimi.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -74,7 +88,9 @@
       <updated>1692864339385</updated>
       <workItem from="1692864340554" duration="11831000" />
       <workItem from="1692895283658" duration="1014000" />
-      <workItem from="1692952971469" duration="4222000" />
+      <workItem from="1692952971469" duration="6124000" />
+      <workItem from="1692987640712" duration="2000" />
+      <workItem from="1693034137204" duration="4054000" />
     </task>
     <task id="LOCAL-00001" summary="Ders 1 : Hello World !">
       <option name="closed" value="true" />
@@ -116,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692891380077</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ders 5 : Diziler - Tamamlandı.">
+      <option name="closed" value="true" />
+      <created>1692974412144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692974412144</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +163,7 @@
     <MESSAGE value="Ders 3 : Şart Blokları - Tamamlandı." />
     <MESSAGE value="Dosya isimleri değiştirildi." />
     <MESSAGE value="Ders 4 : Döngüler - Tamamlandı." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ders 4 : Döngüler - Tamamlandı." />
+    <MESSAGE value="Ders 5 : Diziler - Tamamlandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ders 5 : Diziler - Tamamlandı." />
   </component>
 </project>
