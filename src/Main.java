@@ -16,5 +16,7 @@ public class Main {
         // Ders7_Mini_Projeler_Arkadas_Sayilar ders7MiniProjelerArkadasSayilar = new Ders7_Mini_Projeler_Arkadas_Sayilar();
         // Ders7_Mini_Projeler_Sayi_Bulma ders7MiniProjelerSayiBulma = new Ders7_Mini_Projeler_Sayi_Bulma();
 
+        // Ders8_Metotlar ders8Metotlar = new Ders8_Metotlar();
+
     }
 }

@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97350b4a-4ae4-4780-a569-f6c5f3fbcf80" name="Changes" comment="Ders 6 : Stringler - Tamamlandı.">
-      <change afterPath="$PROJECT_DIR$/src/Ders7_Mini_Projeler/Ders7_Mini_Projeler_Arkadas_Sayilar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders7_Mini_Projeler/Ders7_Mini_Projeler_Kalin_Sesli_ve_Ince_Sesli_Harfler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders7_Mini_Projeler/Ders7_Mini_Projeler_Mukemmel_Sayilar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders7_Mini_Projeler/Ders7_Mini_Projeler_Sayi_Asal_Mi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders7_Mini_Projeler/Ders7_Mini_Projeler_Sayi_Bulma.java" afterDir="false" />
+    <list default="true" id="97350b4a-4ae4-4780-a569-f6c5f3fbcf80" name="Changes" comment="Ders 7 : Mini Projeler (Algoritma Kavramını Geliştirecek) - Tamamlandı.">
+      <change afterPath="$PROJECT_DIR$/src/Ders8_Metotlar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -94,7 +90,7 @@
       <workItem from="1692895283658" duration="1014000" />
       <workItem from="1692952971469" duration="6124000" />
       <workItem from="1692987640712" duration="2000" />
-      <workItem from="1693034137204" duration="13028000" />
+      <workItem from="1693034137204" duration="19778000" />
     </task>
     <task id="LOCAL-00001" summary="Ders 1 : Hello World !">
       <option name="closed" value="true" />
@@ -152,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693042511696</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ders 7 : Mini Projeler (Algoritma Kavramını Geliştirecek) - Tamamlandı.">
+      <option name="closed" value="true" />
+      <created>1693130771169</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693130771169</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +181,8 @@
     <MESSAGE value="Ders 4 : Döngüler - Tamamlandı." />
     <MESSAGE value="Ders 5 : Diziler - Tamamlandı." />
     <MESSAGE value="Ders 6 : Stringler - Tamamlandı." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ders 6 : Stringler - Tamamlandı." />
+    <MESSAGE value="Ders 7 : Mini Projeler (Algoritma Kavramını Geliştirecek) - Tamamlandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ders 7 : Mini Projeler (Algoritma Kavramını Geliştirecek) - Tamamlandı." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
